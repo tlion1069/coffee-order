@@ -5,4 +5,13 @@ public class Soy extends Milk{
     public Soy(Beverage beverage) {
         super(beverage);
     }
+    @Override
+    public float cost() {
+        return  beverage.cost() + 0.27F;
+    }
+
+    @Override
+    public String getDescription() {
+        return beverage.getDescription() + "Soy Milk,";
+    }
 }

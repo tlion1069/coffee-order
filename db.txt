@@ -1,0 +1,69 @@
+2, 2.57, House Blend Drip Coffee with Milk,Soy Milk,Whipped Cream
+2, 2.8700001, House Blend Drip Coffee with Mocha,Whipped Cream,Soy Milk,Milk
+3, 2.89, House Blend Drip Coffee with Mocha,Milk,Soy Milk,Soy Milk
+4, 2.05, House Blend Drip Coffee with Milk
+5, 2.05, House Blend Drip Coffee with Milk
+6, 2.8999999, House Blend Drip Coffee with Milk,Mocha,Mocha,Whipped Cream
+7, 2.05, House Blend Drip Coffee with Milk
+8, 1.95, House Blend Drip Coffee with Mocha
+9, 2.6499999, House Blend Drip Coffee with Milk,Mocha,Mocha
+10, 3.21, Dark Roast with Mocha,Whipped Cream,Soy Milk,Milk
+11, 2.65, House Blend Drip Coffee with Whipped Cream,Whipped Cream,Whipped Cream,Whipped Cream
+12, 2.6, House Blend Drip Coffee with Whipped Cream,Milk,Mocha
+13, 3.9, House Blend Drip Coffee with Whipped Cream,Whipped Cream,Whipped Cream,Whipped Cream,Whipped Cream,Whipped Cream,Whipped Cream,Whipped Cream,Whipped Cream
+14, 2.35, House Blend Drip Coffee with Milk,Mocha
+15, 2.8700001, House Blend Drip Coffee with Mocha,Whipped Cream,Soy Milk,Milk
+16, 2.75, House Blend Drip Coffee with Milk,Milk,Mocha
+17, 2.45, House Blend Drip Coffee with Milk,Milk
+18, 1.98, Decaffeinated Coffee with Milk,Mocha
+19, 2.29, A shot of Espresso with Milk,Mocha,Whipped Cream
+20, 1.98, Decaffeinated Coffee with Milk,Mocha
+21, 2.29, A shot of Espresso with Milk,Mocha,Whipped Cream
+22, 2.54, A shot of Espresso with Milk,Mocha,Whipped Cream,Whipped Cream
+23, 2.85, House Blend Drip Coffee with Milk,Mocha,Whipped Cream,Whipped Cream
+24, 3.19, Dark Roast with Milk,Mocha,Whipped Cream,Whipped Cream
+25, 2.48, Decaffeinated Coffee with Milk,Mocha,Whipped Cream,Whipped Cream
+26, 1.61, A shot of Espresso with Soy Milk
+27, 1.92, House Blend Drip Coffee with Soy Milk
+28, 2.26, Dark Roast with Soy Milk
+29, 1.55, Decaffeinated Coffee with Soy Milk
+30, 2.26, A shot of Espresso with Whipped Cream,Milk,Soy Milk
+31, 2.57, House Blend Drip Coffee with Whipped Cream,Milk,Soy Milk
+32, 2.91, Dark Roast with Whipped Cream,Milk,Soy Milk
+33, 2.2, Decaffeinated Coffee with Whipped Cream,Milk,Soy Milk
+34, 1.98, Decaffeinated Coffee with Milk,Mocha
+35, 2.29, A shot of Espresso with Milk,Mocha,Whipped Cream
+36, 2.54, A shot of Espresso with Milk,Mocha,Whipped Cream,Whipped Cream
+37, 2.85, House Blend Drip Coffee with Milk,Mocha,Whipped Cream,Whipped Cream
+38, 3.19, Dark Roast with Milk,Mocha,Whipped Cream,Whipped Cream
+39, 2.48, Decaffeinated Coffee with Milk,Mocha,Whipped Cream,Whipped Cream
+40, 1.61, A shot of Espresso with Soy Milk
+41, 1.92, House Blend Drip Coffee with Soy Milk
+42, 2.26, Dark Roast with Soy Milk
+43, 1.55, Decaffeinated Coffee with Soy Milk
+44, 2.26, A shot of Espresso with Whipped Cream,Milk,Soy Milk
+45, 2.57, House Blend Drip Coffee with Whipped Cream,Milk,Soy Milk
+46, 2.91, Dark Roast with Whipped Cream,Milk,Soy Milk
+47, 2.2, Decaffeinated Coffee with Whipped Cream,Milk,Soy Milk
+48, 1.9100001, A shot of Espresso with Soy Milk,Mocha
+49, 2.22, House Blend Drip Coffee with Soy Milk,Mocha
+50, 2.56, Dark Roast with Soy Milk,Mocha
+51, 1.8499999, Decaffeinated Coffee with Soy Milk,Mocha
+52, 1.98, Decaffeinated Coffee with Milk,Mocha
+53, 2.29, A shot of Espresso with Milk,Mocha,Whipped Cream
+54, 2.54, A shot of Espresso with Milk,Mocha,Whipped Cream,Whipped Cream
+55, 2.85, House Blend Drip Coffee with Milk,Mocha,Whipped Cream,Whipped Cream
+56, 3.19, Dark Roast with Milk,Mocha,Whipped Cream,Whipped Cream
+57, 2.48, Decaffeinated Coffee with Milk,Mocha,Whipped Cream,Whipped Cream
+58, 1.61, A shot of Espresso with Soy Milk
+59, 1.92, House Blend Drip Coffee with Soy Milk
+60, 2.26, Dark Roast with Soy Milk
+61, 1.55, Decaffeinated Coffee with Soy Milk
+62, 2.26, A shot of Espresso with Whipped Cream,Milk,Soy Milk
+63, 2.57, House Blend Drip Coffee with Whipped Cream,Milk,Soy Milk
+64, 2.91, Dark Roast with Whipped Cream,Milk,Soy Milk
+65, 2.2, Decaffeinated Coffee with Whipped Cream,Milk,Soy Milk
+66, 1.9100001, A shot of Espresso with Soy Milk,Mocha
+67, 2.22, House Blend Drip Coffee with Soy Milk,Mocha
+68, 2.56, Dark Roast with Soy Milk,Mocha
+69, 1.8499999, Decaffeinated Coffee with Soy Milk,Mocha

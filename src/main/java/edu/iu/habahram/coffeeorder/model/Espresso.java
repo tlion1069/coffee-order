@@ -3,11 +3,11 @@ package edu.iu.habahram.coffeeorder.model;
 public class Espresso extends Beverage{
     @Override
     public float cost() {
-        return 0;
+        return 1.34F;
     }
 
     @Override
     public String getDescription() {
-        return null;
+        return "A shot of Espresso with ";
     }
 }
