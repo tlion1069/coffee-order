@@ -19,7 +19,7 @@ import static java.lang.Math.random;
 public class OrderFileRepository {
     public Receipt add(OrderData order) throws Exception {
         Beverage beverage = null;
-        switch (order.getBeverage().toLowerCase()) {
+        switch (order.beverage().toLowerCase()) {
             case "dark roast":
                 beverage = new DarkRoast();
                 break;
@@ -34,9 +34,9 @@ public class OrderFileRepository {
                 break;
         }
         if (beverage == null) {
-            throw new Exception("Beverage type '%s' is not valid!".formatted(order.getBeverage()));
+            throw new Exception("Beverage type '%s' is not valid!".formatted(order.beverage()));
         }
-        for(String condiment : order.getCondiments()) {
+        for(String condiment : order.condiments()) {
             switch (condiment.toLowerCase()) {
                 case "milk":
                    beverage = new Milk(beverage);
